@@ -1,0 +1,2 @@
+# foodwise-smart-food-demand-forecasting-and-waste-reduction-system
+FoodWise is a Java and Spring Boot web application that tracks daily food preparation and sales, calculates leftovers and food waste, and forecasts future meal demand using historical data. It provides a dashboard with analytical insights to help canteens and small restaurants make better food preparation decisions and reduce waste.
